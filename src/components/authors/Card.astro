@@ -20,12 +20,12 @@ const bodyBrief = entry.body ? plainify(entry.body?.slice(0, 100)) : null;
     {
       image && (
         <Image
-          class="mx-auto mb-6 rounded  w-full object-cover"
+          class="mx-auto mb-6 rounded w-full object-cover"
           src={image}
           alt={imageAlt}
           loading="eager"
         />
-      }
+      )
     }
     <h4 class="mb-3">
       <a href={`/authors/${entry.id}`}>{title}</a>
