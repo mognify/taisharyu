@@ -1,7 +1,7 @@
 ---
 image: "@assets/taisharyu.avif"
-imageAlt: Astrogon logo
-title: Hyoho Taisharyu
+imageAlt: Taisharyu logo
+title: Hyoho Taisha-ryu
 content: Traditional Japanese martial arts school (koryu) that focuses on Japanese swordsmanship
 button:
   label: Japan
