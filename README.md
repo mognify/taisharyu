@@ -76,13 +76,6 @@ See [docs/tech-stack.md](docs/tech-stack.md) for more details.
 4. From the project directory, build: `npm run dev`
 5. See your changes live at `http://localhost:4321`
 
-## License
-
-Astrogon is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-This template was originally inspired by the structures of [zeon-studio](https://github.com/zeon-studio)'s [astroplate](https://github.com/zeon-studio/astroplate), [jordienr](https://github.com/jordienr)'s [astro-design-system](https://github.com/jordienr/astro-design-system) and [TheOtterlord](https://github.com/TheOtterlord)'s [manual](https://github.com/TheOtterlord/manual).
 
 ## Sponsorship
 
