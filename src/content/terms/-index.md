@@ -4,13 +4,13 @@ title: Terms & Conditions
 
 ## Copyright
 
-&copy; 2025 Jane Doe. All rights reserved.
+&copy; 2025 Surrect. All rights reserved.
 
 ## Reuse
 
 ### Source Code
 
-The source code for janedoe.com is protected under the MIT License. In short, you can do as you see fit, so long as you include the original copyright notice in any copy of the software.
+The source code for taisharyu.us is protected under the MIT License. In short, you can do as you see fit, so long as you include the original copyright notice in any copy of the software.
 
 ```md
 The MIT License (MIT)
