@@ -1,4 +1,4 @@
 ---
-title: Authors
+title: Masters
 description: this is meta description
 ---
