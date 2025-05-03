@@ -22,11 +22,9 @@ const { Content } = await render(entry);
           {
             image && (
               <Image
-                class="mx-auto mb-6 rounded-lg w-64"
+                class="mx-auto mb-6 rounded-lg w-full object-cover"
                 src={image}
                 alt={imageAlt}
-                width={1024}
-                height={1024}
                 loading="eager"
               />
             )
