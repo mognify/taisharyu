@@ -1,9 +1,9 @@
 ---
 image: "@assets/taisharyu.avif"
 imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+title: Hyoho Taisha Ryu
+content: Traditional Japanese martial arts school (koryu) that focuses on Japanese swordsmanship
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Japanese Site
+  link: https://taisharyu.jp/
 ---
