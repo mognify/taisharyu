@@ -2,7 +2,7 @@
   const defaultTheme = "system";
 
   function getTheme(defaultTheme) {
-    var darkMode = defaultTheme === "dark" ? true : false;
+    var darkMode = defaultTheme === "dark" ? false : true;
     if (localStorage.getItem("theme") === "system") {
       if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
         darkMode = true;
