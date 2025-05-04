@@ -5,7 +5,7 @@ title: Hyoho Taisha-ryu USA
 content: Taisha-ryu Kenjutsu Study Group in the **United States**
 button:
   label: More information
-  link: [https://taisharyu.us/about/](https://taisharyu.us/about/)
+  link: https://taisharyu.us/about/](https://taisharyu.us/about/
 button:
   label: Join
   link: https://taisharyu.jp/
