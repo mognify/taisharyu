@@ -1,93 +1,52 @@
 ---
-title: Hyoho Taisha-ryu Introduction
+title: Hyoho Taisha-ryu
 description: Overvie summary of the history of Hyoho Taisha Ryu
 image: "@assets/profile/about_photo.webp"
 draft: false
 ---
 
-Hyoho Taisha-ryu (兵法タイ捨流) is a classical Japanese martial tradition (koryū) founded in the early 17th century by Marume Nagayoshi (1540–1629), a samurai of Higo Province (modern-day Kumamoto). He was a direct student of Kamiizumi Nobutsuna, founder of Shinkage-ryu, and was influenced by the evolving battlefield tactics of Sengoku Japan.
-Hyoho Taisha-ryu (兵法タイ捨流) is a traditional Japanese martial art (koryu) founded in the early 17th century by Marume Nagayoshi, a samurai from Higo Province (modern-day Kumamoto). Marume was a disciple of the famed Kamiizumi Nobutsuna, founder of Shinkage-ryu, and synthesized various teachings—especially the psychological and strategic components of swordsmanship—into a distinct school.
+**Hyoho Taisha-ryu** is a classical Japanese martial system (koryu bujutsu) founded in the early 17th century by **Marume Nagayoshi** (1540–1629), a retainer of the Sagara clan in Higo Province (modern Kumamoto). Drawing from his study under Kamiizumi Nobutsuna, founder of Shinkage-ryu, Marume synthesized battlefield method, sword theory, and spiritual clarity into a unified strategic art: Hyoho Taisha-ryu.
 
-Strategic Mastery (Hyoho / 兵法)
-Training practitioners to read opponents, use psychological tactics, and employ adaptive movement.
+The term **"Hyoho"** (兵法) denotes martial strategy—encompassing tactics, timing, structure, and mind. The term **"Taisha"** (タイ捨) implies "casting off the body," a phrase reflecting the school's essential principle: release from fear of death, enabling decisive action and clarity under duress. The practitioner enters combat not to dominate but to transcend the self.
 
-Sacrificial Principle (Taisha / 捨)
-Learning when to give ground, feint, or sacrifice position to gain a decisive edge.
+## Core Disciplines
 
-The term "Taisha" (タイ捨) means something like "casting away the body" or "sacrificing the self," which reflects the martial and spiritual ethos of the school—entering combat with no attachment to one's life, embodying the samurai ideal of fearless resolution.
-The name “Taisha” (捨) implies abandonment or sacrifice, not in a passive sense, but as a strategic giving up—sacrificing form for essence, life for principle, or position for opportunity. The style is known for its fluid, practical, and deceptive tactics, often emphasizing strategy over brute force.
+Hyoho Taisha-ryu is a **sogo bujutsu** (composite martial system), transmitting knowledge across multiple weapons and domains:
 
-Taisha-ryu is a sogo bujutsu (comprehensive martial art), incorporating:
+- **Kenjutsu** – sword techniques for single and dual swords
+- **Iaijutsu** – seated and standing sword-draw methods
+- **Sojutsu** – spear combat
+- **Naginatajutsu** – glaive usage, especially against cavalry
+- **Tantojutsu** – knife defense and offense
+- **Jujutsu** – grappling and unarmed methods
+- **Tessenjutsu** – iron fan techniques, often used in court or disarmed settings
 
-Kenjutsu (swordsmanship)
-Iaijutsu (sword drawing techniques)
-Sojutsu (spear)
-Naginatajutsu (glaive)
-Jujutsu (grappling/close combat)
-Tantojutsu (knife)
-Tessenjutsu (iron fan)
+These forms (kata) are not choreography but mnemonic frameworks to internalize spatial awareness, timing, control, and psychological strategy.
 
-It has survived through over 400 years of lineage transmission, mostly within Kumamoto.
+## Purpose and Function
 
-Emphasis on timing, deception, and pre-emptive control, rather than brute strength.
+The purpose of Hyoho Taisha-ryu is not sport, nor casual self-defense. It is a vehicle for refining perception, movement, and resolve. Rooted in the logic of mortal combat, its training is designed to:
 
-2. 
+- Discipline the body through refined mechanics
+- Sharpen the mind through exposure to strategic conflict
+- Strengthen the spirit by detaching from self-preservation
 
-Reflects a Stoic-like mindset: accepting death, prioritizing principle over survival.
+Through its curriculum, practitioners study **combat as transformation**: training to eliminate hesitation, fear, and thought-lag, thus enabling a calm and lucid state even when stakes are life-defining.
 
-3. 
-Practice fosters awareness, calm under pressure, and a deep connection to one’s center.
+## Lineage and Transmission
 
-4. Cultural Transmission
-The school acts as a vessel of samurai ethics, aesthetics, and values, preserving Japan’s martial heritage through living practice.
+For over 400 years, the art has been handed down through a direct transmission line. In modern times, three key figures have carried its methods into public knowledge while preserving its integrity:
+
+- **Yamakita Takenori**, 15th-generation soke (headmaster), has worked to preserve, refine, and document the school's deep internal logic and pedagogy. His leadership balances faithful preservation with lucid instruction.
+- **Uehara Eriko**, senior instructor and long-time disciple, plays a key role in practice continuity, instructional integrity, and the international communication of Taisha-ryu principles.
+- **Takahiro Yamamoto**, active practitioner and assistant instructor, supports technical transmission and engagement with new students and modern platforms.
+
+Each continues the work of adapting traditional knowledge to contemporary students without diluting its depth or context.
+
+## Joining the Practice
+
+Hyoho Taisha-ryu is open to sincere individuals seeking more than physical technique. It demands consistency, humility, and self-honesty. While physical conditioning and coordination are trained, the true challenge lies in confronting internal obstacles: indecision, ego, tension, and attachment.
+
+The school does not teach how to win; it teaches how to stand, see, move, and decide.
 
 
-Modern Figures
-Yamakita Takenori (山北剛徳)
-A recent headmaster (sōke) of the style, Yamakita is known for preserving the traditional forms (kata) and philosophy of the school, while also presenting them in a historically informed and practically relevant way. His leadership emphasized authentic transmission and teaching clarity.
-15th generation sōke (headmaster) of Hyoho Taisha-ryu.
-
-Credited with revitalizing and documenting much of the school's teachings in modern times.
-
-Known for his deep scholarly and practical understanding of bujutsu and his efforts to share the tradition internationally.
-
-Uehara Eriko (上原恵理子)
-One of the prominent successors, Uehara is a licensed shihan (master instructor) dedicated to preservation and research. She’s also known for her efforts in sharing the art internationally, often representing the school at international koryu events and bringing visibility to female practitioners in traditional martial arts.
-One of the senior practitioners and a dedicated transmitter of Hyoho Taisha-ryu under Yamakita-sensei.
-
-Noted for her embodiment of both technical excellence and philosophical insight into the ryū.
-
-Plays a visible role in demonstrations and outreach, especially in English-speaking contexts.
-
-Takahiro Yamamoto (山本隆弘)
-A younger generation practitioner and teacher, Yamamoto plays a role in spreading the philosophy and practice of Taisha-ryu to a broader audience, especially online and in non-Japanese contexts, helping to bridge the historical and modern worlds.
-A more recent and increasingly active representative of the tradition, often assisting in instruction, demonstrations, and interpretation of the art’s principles for modern students.
-
-Helps bridge traditional training with new learners and international interest.
-
-Purpose, Intention, and Philosophy of Hyoho Taisha-ryu
-Hyoho Taisha-ryu is not just about winning a duel or practicing forms. Its core purpose is:
-
-1. Embodying the Way of the Warrior (Hyoho / Heihō)
-“Hyoho” refers to the strategy, wisdom, and mindset of martial engagement.
-
-Practitioners aim to unite body, weapon, and spirit to act with clarity, decisiveness, and freedom from attachment.
-
-2. Training for Mental & Physical Liberation
-The term “Taisha” implies a self-sacrificial mindset—a state beyond fear or hesitation.
-
-Training is meant to purge ego, indecision, and fear, revealing one’s true self under pressure.
-
-🛡3. Preservation of a Living Cultural Legacy
-While its techniques are rooted in battlefield tactics, its practice today preserves spiritual discipline, personal refinement, and cultural transmission.
-
-Forms (kata) are practiced not for rote memorization, but as vehicles of internalization—a way to absorb the rhythm, psychology, and strategies of classical combat.
-
-Summary
-Aspect	Details
-Founded	Early 1600s by Marume Nagayoshi
-Core Arts	Kenjutsu, iaijutsu, naginata, spear, grappling, etc.
-Modern Sōke	Yamakita Takenori
-Key Figures	Uehara Eriko, Takahiro Yamamoto
-Philosophy	Self-sacrifice, strategic clarity, mental liberation
-Purpose Today	Personal discipline, cultural preservation, spiritual and martial unity
