@@ -15,7 +15,7 @@ const { title, image, imageAlt, social } = entry.data;
 const bodyText = entry.body ? plainify(entry.body) : null;
 
 // Get the first sentence
-const firstSentence = bodyText ? bodyText.split(/[.!?]/)[0] : null;
+const firstSentence = bodyText ? bodyText.split(/[.!?\n]/)[0] : null;
 
 // Get the sliced body
 const slicedBody = bodyText ? bodyText.slice(0, 100) : null;
