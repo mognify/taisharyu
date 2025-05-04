@@ -1,7 +1,7 @@
 ---
 title: Hyoho Taisha-ryu
 description: Overvie summary of the history of Hyoho Taisha Ryu
-image: "@assets/profile/taisharyu.avif"
+image: "@assets/taisharyu.avif"
 draft: false
 ---
 
