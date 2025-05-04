@@ -4,7 +4,6 @@ description: Overvie summary of the history of Hyoho Taisha Ryu
 image: "@assets/taisharyu.avif"
 draft: false
 ---
-<br><br>
 **Hyoho Taisha-ryu** is a classical Japanese martial system (koryu bujutsu) founded in the early 17th century by **Marume Nagayoshi** (1540–1629), a retainer of the Sagara clan in Higo Province (modern Kumamoto). Drawing from his study under Kamiizumi Nobutsuna, founder of Shinkage-ryu, Marume synthesized battlefield method, sword theory, and spiritual clarity into a unified strategic art: Hyoho Taisha-ryu.
 <br><br>
 The term **"Hyoho"** (兵法) denotes martial strategy—encompassing tactics, timing, structure, and mind. The term **"Taisha"** (タイ捨) implies "casting off the body," a phrase reflecting the school's essential principle: release from fear of death, enabling decisive action and clarity under duress. The practitioner enters combat not to dominate but to transcend the self.
