@@ -1,7 +1,7 @@
 ---
 title: Uehara Eriko
 email: Uehara.Eriko@taisharyu.us
-image: "@assets/profile/takahiro_yamamoto.jpg"
+image: "@assets/profile/about_photo.webp"
 social:
   github: "https://github.com/"
   linkedIn: "https://www.linkedin.com/"
