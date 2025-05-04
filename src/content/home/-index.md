@@ -4,6 +4,9 @@ imageAlt: Taisharyu logo
 title: Hyoho Taisha-ryu
 content: Taisha-ryu Kenjutsu Study Group in the United States
 button:
-  label: Join
+  label: More information
   link: https://taisharyu.jp/
+
+  label: Join
+  link: https://taisharyu.us/about/
 ---
