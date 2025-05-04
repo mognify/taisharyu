@@ -7,12 +7,8 @@ social:
   linkedIn: "https://www.linkedin.com/"
   email: "Uehara.Eriko@taisharyu.us"
 ---
-Uehara Eriko – 第十五代 宗家 (15th Sōke)
+Uehara Eriko 第十五代 宗家 (15th Sōke) 15th Headmaster (Sōke)
 
-Title: 15th Headmaster (Sōke)
+Preserving and transmitting the complete art of Hyoho Taisha-ryu in the modern era.
 
-Role: Preserving and transmitting the complete art of Hyoho Taisha-ryu in the modern era.
-
-About: Granddaughter of Yamakita Takenori, Uehara Eriko assumed the role of Sōke to carry forward the living tradition of Taisha-ryu. With discipline, clarity, and deep humility, she guides the school's evolution while maintaining its classical heart.
-
-Focus: Lineage preservation, koryu pedagogy, international outreach.
+Granddaughter of Yamakita Takenori, Uehara Eriko assumed the role of Sōke to carry forward the living tradition of Taisha-ryu. With discipline, clarity, and deep humility, she guides the school's evolution while maintaining its classical heart.
