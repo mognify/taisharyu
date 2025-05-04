@@ -60,6 +60,17 @@ const { image, imageAlt, title, content, button, button1 } = entry.data;
               />
             )
           }
+          {
+            button && (
+              <Button
+                label={button.label}
+                link={button.link}
+                newtab
+                hoverInvert
+                color=""
+              />
+            )
+          }
         </div>
       </div>
     </div>
