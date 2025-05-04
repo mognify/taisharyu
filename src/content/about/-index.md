@@ -9,7 +9,6 @@ draft: false
 The term **"Hyoho"** (兵法) denotes martial strategy—encompassing tactics, timing, structure, and mind. The term **"Taisha"** (タイ捨) implies "casting off the body," a phrase reflecting the school's essential principle: release from fear of death, enabling decisive action and clarity under duress. The practitioner enters combat not to dominate but to transcend the self.
 <br><br>
 ## Core Disciplines
-<br>
 Hyoho Taisha-ryu is a **sogo bujutsu** (composite martial system), transmitting knowledge across multiple weapons and domains:
 <br><br>
 - **Kenjutsu** – sword techniques for single and dual swords
@@ -23,7 +22,6 @@ Hyoho Taisha-ryu is a **sogo bujutsu** (composite martial system), transmitting 
 These forms (kata) are not choreography but mnemonic frameworks to internalize spatial awareness, timing, control, and psychological strategy.
 <br><br>
 ## Purpose and Function
-<br>
 The purpose of Hyoho Taisha-ryu is not sport, nor casual self-defense. It is a vehicle for refining perception, movement, and resolve. Rooted in the logic of mortal combat, its training is designed to:
 <br><br>
 - Discipline the body through refined mechanics
@@ -33,7 +31,6 @@ The purpose of Hyoho Taisha-ryu is not sport, nor casual self-defense. It is a v
 Through its curriculum, practitioners study **combat as transformation**: training to eliminate hesitation, fear, and thought-lag, thus enabling a calm and lucid state even when stakes are life-defining.
 <br><br>
 ## Lineage and Transmission
-<br>
 For over 400 years, the art has been handed down through a direct transmission line. In modern times, three key figures have carried its methods into public knowledge while preserving its integrity:
 <br><br>
 - **Yamakita Takenori**, 15th-generation soke (headmaster), has worked to preserve, refine, and document the school's deep internal logic and pedagogy. His leadership balances faithful preservation with lucid instruction.
@@ -43,7 +40,6 @@ For over 400 years, the art has been handed down through a direct transmission l
 Each continues the work of adapting traditional knowledge to contemporary students without diluting its depth or context.
 <br><br>
 ## Joining the Practice
-<br>
 Hyoho Taisha-ryu is open to sincere individuals seeking more than physical technique. It demands consistency, humility, and self-honesty. While physical conditioning and coordination are trained, the true challenge lies in confronting internal obstacles: indecision, ego, tension, and attachment.
 <br><br>
 The school does not teach how to win; it teaches how to stand, see, move, and decide.
