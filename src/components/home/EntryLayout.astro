@@ -10,7 +10,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const { image, imageAlt, title, content, button } = entry.data;
+const { image, imageAlt, title, content, button, button1 } = entry.data;
 ---
 
 <BaseLayout>
@@ -48,8 +48,8 @@ const { image, imageAlt, title, content, button } = entry.data;
             )
             button && (
               <Button
-                label={button.label}
-                link={button.link}
+                label={button1.label}
+                link={button1.link}
                 newtab
                 hoverInvert
                 color=""
