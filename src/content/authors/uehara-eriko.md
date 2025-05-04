@@ -7,7 +7,7 @@ social:
   linkedIn: "https://www.linkedin.com/"
   email: "Uehara.Eriko@taisharyu.us"
 ---
-Uehara Eriko 第十五代 宗家 (15th Sōke) 15th Headmaster (Sōke).
+Uehara Eriko 第十五代 宗家 (15th Sōke).
 <br><br>
 Preserving and transmitting the complete art of Hyoho Taisha-ryu in the modern era.
 <br><br>
