@@ -8,7 +8,7 @@ social:
   instagram: "https://www.instagram.com/"
   youtube: "https://www.youtube.com/"
 ---
-13th Headmaster (Sōke). Previous head of the ryu and pivotal figure in its postwar revival.
+13th Sōke (Headmaster) 第十三代 宗家. Previous head of the ryu and pivotal figure in its postwar revival.
 <br><br>
 Yamakita Takenori revitalized and stabilized Hyoho Taisha-ryu after a period of dormancy. A scholar-practitioner, he emphasized the inner structure of kata and the mental strategy of hyoho. His work ensured the art would continue into future generations.
 <br><br>
