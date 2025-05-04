@@ -15,7 +15,7 @@ const { label, link, newtab=false, type="primary", color, hoverInvert=false, gla
 { glass ? (
   <a 
     href={link} 
-    target=`"_self"`
+    target="_self"
     class=`no-underline inline-block hover:opacity-100 ${type == "primary" ? "" : "intersect:animate-fade opacity-0"}`
   >
     <div class=`glass-t hover:bg-opacity-20 hover:backdrop-blur-none
@@ -27,7 +27,7 @@ const { label, link, newtab=false, type="primary", color, hoverInvert=false, gla
 ) : (
   <a 
     href={link} 
-    target=`"_self"`
+    target="_self"
     class=`no-underline inline-block group intersect:animate-fadeLeft opacity-0 ${hoverInvert ? "hover:opacity-100" : ""}`
   >
   <div class=`
