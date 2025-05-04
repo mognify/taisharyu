@@ -14,3 +14,9 @@ Yamamoto Takahiro has been actively promoting Hyoho Taisha-ryu both within Japan
  The school emphasizes practicality and adaptability, reflecting the era of civil war in which it was created. It includes deep stances and movements designed for battlefield conditions, making it a very practical style of kenjutsu.
 
 In addition to his role in Hyoho Taisha-ryu, Takahiro Yamamoto is also known as a multidisciplinary artist and choreographer, whose work focuses on the effects of time and the presence of nothingness.
+
+Yamamoto Takahiro, a senior disciple of Yamakita, acts as the technical leader of the school and assists Uehara Eriko.
+
+Taisha Ryu teaches unique kamae (stances) and reihō (etiquette) and is known for its distinctive name, which uses both kanji and katakana.
+Yamakita Takenori: 13th headmaster of Taisha Ryu, born in 1883, carried the tradition into the 20th century, and appointed Yamamoto Takahiro and Tazoe Shin-Ichiro as Shihan.
+Yamamoto Takahiro: Senior disciple of Yamakita Takenori, acts as the technical leader of Taisha Ryu and assists the current headmaster, Uehara Eriko.
