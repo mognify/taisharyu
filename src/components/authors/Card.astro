@@ -10,7 +10,20 @@ interface Props {
 
 const { entry }: Props = Astro.props;
 const { title, image, imageAlt, social } = entry.data;
-const bodyBrief = entry.body ? plainify(entry.body?.slice(0, 100)) : null;
+
+// Extract the body text and plainify it
+const bodyText = entry.body ? plainify(entry.body) : null;
+
+// Get the first sentence
+const firstSentence = bodyText ? bodyText.split(/[.!?]/)[0] : null;
+
+// Get the sliced body
+const slicedBody = bodyText ? bodyText.slice(0, 100) : null;
+
+// Choose the shorter of the two
+const bodyBrief = firstSentence && slicedBody
+  ? (firstSentence.length <= slicedBody.length ? firstSentence : slicedBody)
+  : (firstSentence || slicedBody);
 ---
 
 <div class="mb-14 md:col-6 lg:col-4">
