@@ -7,6 +7,6 @@ social:
   linkedIn: "https://www.linkedin.com/"
   email: "Takahiro.Yamamoto@taisharyu.us"
 ---
-Shihan (Senior Instructor) 師範
+Shihan (Senior Instructor) 師範.
 <br><br>
 Yamamoto-sensei is responsible for ensuring the precise technical application of Hyoho Taisha-ryu’s teachings. As Shihan, he supports both the Sōke and the broader practitioner base through hands-on instruction, correction, and dissemination of the art’s combative heart.
