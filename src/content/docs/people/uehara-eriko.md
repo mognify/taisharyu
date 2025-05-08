@@ -9,7 +9,7 @@ modDate: 2025-05-08
 
 # Uehara Eriko – 15th Generation Sōke of Hyoho Taisha-ryū
 
-**Uehara Eriko** (上原エリ子, Fujiwara Hidesada, b. 1981) is the 15th-generation *sōke* (headmaster) of **Hyoho Taisha-ryū Kenjutsu**, one of Japan’s classical martial arts (*koryū bujutsu*). Her succession marks a historic shift as the first woman to lead the ryu in over 450 years of its history. Uehara is the granddaughter of the 13th sōke, Yamakita Takenori, and formally succeeded the headmastership on **August 1, 2015**, at age 34.
+**Uehara Eriko** (上原エリ子, Fujiwara Hidesada) is the 15th-generation *sōke* (headmaster) of **Hyoho Taisha-ryū Kenjutsu**, one of Japan’s classical martial arts (*koryū bujutsu*). Her succession marks a historic shift as the first woman to lead the ryu in over 450 years of its history. Uehara is the granddaughter of the 13th sōke, Yamakita Takenori, and formally succeeded the headmastership on **August 1, 2015**.
 
 ---
 
