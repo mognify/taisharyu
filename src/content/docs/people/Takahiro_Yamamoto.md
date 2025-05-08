@@ -9,11 +9,7 @@ modDate: 2025-05-08
 
 Shihan (Senior Instructor) 師範.
 
-Yamamoto-sensei is responsible for ensuring the precise technical application of Hyoho Taisha-ryu’s teachings. As Shihan, he supports both the Sōke and the broader practitioner base through hands-on instruction, correction, and dissemination of the art’s combative heart.
-
 ---
-
-## Takahiro Yamamoto: Technical Leader of Hyoho Taisha-ryu
 
 **Takahiro Yamamoto** (山本 隆博), born on March 21, 1970, in Yatsushiro City, Kumamoto Prefecture, is a distinguished martial artist and the current Shihan (master instructor) of Hyoho Taisha-ryu. He serves as the Kancho (head) of the Ryū-Sen-Kan Dōjō, the school's headquarters in Yatsushiro, and acts as the technical leader under the 15th Sōke (headmaster), **Eriko Uehara**.
 
