@@ -42,9 +42,9 @@ The current sōke, **Uehara Eriko**, oversees the Ryusenkan Dojo in Yatsushiro, 
 The central purpose of Hyoho Taisha-ryu is the transmission of battlefield-tested strategic and combative methods developed during Japan’s feudal period. It was designed not for sport or performance, but to prepare warriors for life-and-death encounters, emphasizing both physical skill and psychological readiness.<br><br>
 
 Unlike modern martial arts which may prioritize competition, exercise, or self-defense in a civilian context, Hyoho Taisha-ryu maintains a focus on:
- \+ Tactical movement and strategic engagement
- \+ Mental composure and decisiveness under pressure
- \+ Accurate preservation of historical technique and intent
+ + Tactical movement and strategic engagement
+ + Mental composure and decisiveness under pressure
+ + Accurate preservation of historical technique and intent
 
 Training is conducted through **kata-based transmission**, where the practitioner learns predetermined forms that encode principles of timing, distance, deception, and finishing movements. These forms are not choreographed routines but distillations of actual combative experience from the warring states era.<br><br>
 
