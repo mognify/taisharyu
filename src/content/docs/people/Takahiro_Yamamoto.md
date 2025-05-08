@@ -3,6 +3,8 @@ title: Takahiro Yamamoto
 description: Shihan (Senior Instructor) 師範.
 image: "@assets/profile/takahiro_yamamoto.jpg"
 imageAlt: "Takahiro Yamamoto Photo"
+pubDate: 2025-05-08
+modDate: 2025-05-08
 ---
 
 Shihan (Senior Instructor) 師範.
