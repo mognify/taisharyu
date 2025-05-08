@@ -26,9 +26,9 @@ Hyoho Taisha-ryu remains a closed, curriculum-based art with no modification per
 The central purpose of Hyoho Taisha-ryu is the transmission of battlefield-tested strategic and combative methods developed during Japan’s feudal period. It was designed not for sport or performance, but to prepare warriors for life-and-death encounters, emphasizing both physical skill and psychological readiness.<br><br>
 
 Unlike modern martial arts which may prioritize competition, exercise, or self-defense in a civilian context, Hyoho Taisha-ryu maintains a focus on:
- + **Tactical movement and strategic engagement**
- + **Mental composure and decisiveness under pressure**
- + **Accurate preservation of historical technique and intent**
+ + Tactical movement and strategic engagement
+ + Mental composure and decisiveness under pressure
+ + Accurate preservation of historical technique and intent
 
 Training is conducted through **kata-based transmission**, where the practitioner learns predetermined forms that encode principles of timing, distance, deception, and finishing movements. These forms are not choreographed routines but distillations of actual combative experience from the warring states era.<br><br>
 
@@ -39,20 +39,10 @@ More broadly, Hyoho Taisha-ryu also serves a cultural and philosophical function
 
 For modern practitioners, the purpose is both historical preservation and personal cultivation through the lens of classical strategy and martial realism.<br><br>
 
-## Locations Where Hyoho Taisha-ryu Is Practiced
-
 Hyoho Taisha-ryu is a **closed transmission system**, meaning it is taught only by licensed instructors with permission from the headmaster. As such, practice locations are few and carefully managed to ensure fidelity to the tradition.<br><br>
 
 ### Japan
 - **Main Dojo (Sōhonbu):** Located in **Kumamoto Prefecture**, this is the headquarters of the school, where the current headmaster resides and where senior instruction takes place.
 - Additional practice groups may exist in other regions of Japan under direct oversight.<br><br>
-
-### International Branches
-Recognized branches and study groups operate in a small number of countries under formal license. These include:
-- **North America:** Select dojo in the United States and Canada with instructors licensed to teach the full curriculum or in limited capacity.
-- **Europe:** Practice groups in countries such as the UK, France, and Germany, depending on the current affiliations and travel of senior instructors.
-- **Australia:** Occasional seminars and private study groups led by approved practitioners.
-
-Due to the nature of koryu, not all locations are publicly advertised. Prospective students are advised to **contact the main organization or regional representatives** for accurate information and to arrange introductions through proper channels.<br><br>
 
 All practice outside Japan is subject to oversight by the sōke and may involve periodic visits, seminars, and skill evaluations to maintain alignment with the mainline teachings.
