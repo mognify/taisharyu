@@ -5,53 +5,54 @@ image: "@assets/taisharyu.avif"
 draft: false
 ---
 
-**Hyoho Taisha-ryu** is a classical Japanese martial system (*koryu bujutsu*) founded by **Marume Nagayoshi** (1540–1629), a retainer of the Sagara clan in Higo Province. He studied directly under **Kamiizumi Ise-no-Kami Nobutsuna**, founder of Shinkage-ryu, and received full transmission (*menkyo kaiden*). From this foundation, Marume developed a distinct and comprehensive martial tradition that came to be known as Hyoho Taisha-ryu.
+## Origin of Hyoho Taisha-ryu
 
-<br><br>
+Hyoho Taisha-ryu is a classical Japanese martial tradition (koryu bujutsu) that originated during the Sengoku period, a time of near-constant warfare in Japan. It was founded by **Marume Nagayoshi (1540–1629)**, a retainer of the Sagara clan in southern Kyushu. He developed the system based on his experience in battle, his exposure to various martial traditions, and his studies under the prominent strategist **Kamiizumi Ise-no-Kami Nobutsuna**, founder of Shinkage-ryu.<br><br>
 
-The term **Hyoho** (兵法) refers not merely to technique, but to strategy: the integrated understanding of combat dynamics, psychological composure, and decisive action. **Taisha** (体捨) means “casting off the body” — not in the sense of recklessness, but of the profound psychological transformation required to act without fear of death. This concept anchors the school’s strategy, emphasizing clarity of decision and immediacy of action even in life-threatening encounters.
+Marume Nagayoshi received formal transmission (menkyo kaiden) from Kamiizumi and later synthesized his learning into his own system: Taisha-ryu. The name can be translated as “Great Teaching School of Strategy” (Hyoho = military strategy, Taisha = great teacher or instruction, Ryu = school). Taisha-ryu was registered with the Satsuma domain as a formal martial system and was practiced by warrior families in the region for generations.<br><br>
 
-<br><br>
+## Lineage and Transmission
 
-Taisha-ryu is a **sogo bujutsu**, a comprehensive martial system designed for practical conflict during the late Sengoku and early Edo periods. It includes:
+Since its founding in the 16th century, Hyoho Taisha-ryu has been transmitted through a direct, teacher-to-student lineage, known in Japanese as **keizu** (descent or transmission line). This process is governed by the menkyo system, which issues formal licenses for levels of mastery and transmission rights. The tradition has been preserved across multiple generations by successive headmasters (sōke), each entrusted with maintaining the integrity of the art.<br><br>
 
-- **Kenjutsu** – swordsmanship, with long sword, short sword, and dual wielding  
-- **Iaijutsu** – drawing and cutting from the scabbard  
-- **Sojutsu** – spear techniques  
-- **Naginatajutsu** – glaive techniques  
-- **Tantojutsu** – knife techniques  
-- **Jujutsu** – unarmed grappling  
-- **Tessenjutsu** – iron fan combat, used often in confined or surprise scenarios  
+Throughout the Edo period and into the modern era, Hyoho Taisha-ryu remained a private tradition within select lineages in Kumamoto and surrounding areas. Its survival into the 20th century was largely due to the efforts of key instructors who continued to train and document the art during times when many koryu were declining or lost.<br><br>
 
-<br><br>
+In the postwar period, the tradition was reorganized and made accessible to a wider public under the guidance of recognized successors. The current sōke, operating from Japan, maintains official authority over the school and its branches. Instructors abroad operate under formal licensure, and all instruction adheres to the structural and pedagogical framework defined by the mainline.<br><br>
 
-The methods are not sports-based nor optimized for dueling; they are shaped by battlefield conditions and the necessity of survival. Taisha-ryu kata encode principles of timing, spatial awareness, and psychological manipulation. They are often performed slowly and precisely, focusing on internal alignment, gaze (*metsuke*), breath control, and movement economy.
+Hyoho Taisha-ryu remains a closed, curriculum-based art with no modification permitted without express authorization. The lineage is documented and traceable, making it one of the few remaining koryu with a continuous, verifiable transmission from the Sengoku period to the present.<br><br>
 
-<br><br>
+## Purpose of Hyoho Taisha-ryu
 
-Strategically, the school favors:
+The central purpose of Hyoho Taisha-ryu is the transmission of battlefield-tested strategic and combative methods developed during Japan’s feudal period. It was designed not for sport or performance, but to prepare warriors for life-and-death encounters, emphasizing both physical skill and psychological readiness.<br><br>
 
-- Disruption over force-on-force opposition  
-- Off-angle entries (*irimi*) instead of direct attacks  
-- Controlled posture (*kamae*) that conceals intent  
-- Minimal telegraphing and subtle shifts in rhythm or weight  
+Unlike modern martial arts which may prioritize competition, exercise, or self-defense in a civilian context, Hyoho Taisha-ryu maintains a focus on:
+- **Tactical movement and strategic engagement**
+- **Mental composure and decisiveness under pressure**
+- **Accurate preservation of historical technique and intent**
 
-<br><br>
+Training is conducted through **kata-based transmission**, where the practitioner learns predetermined forms that encode principles of timing, distance, deception, and finishing movements. These forms are not choreographed routines but distillations of actual combative experience from the warring states era.<br><br>
 
-These principles are integrated into every level of training and form the strategic core of Taisha-ryu’s pedagogy. The aim is to eliminate hesitation through familiarity with danger and awareness of human nature under stress.
+More broadly, Hyoho Taisha-ryu also serves a cultural and philosophical function. It transmits the ethical framework, etiquette, and strategic thinking of a historical warrior class. This includes:
+- Maintaining discipline through ritualized structure
+- Cultivating awareness and composure (heijoshin)
+- Reinforcing values of duty, humility, and precision
 
-<br><br>
+For modern practitioners, the purpose is both historical preservation and personal cultivation through the lens of classical strategy and martial realism.<br><br>
 
-Philosophically, Hyoho Taisha-ryu transmits a deep internal discipline grounded in a pre-modern worldview. The practitioner is expected not only to refine physical technique but to confront fear, ego, and illusion. The art is transformative: it develops resolve, subtlety of perception, and the ability to act from a clear mind.
+## Locations Where Hyoho Taisha-ryu Is Practiced
 
-<br><br>
+Hyoho Taisha-ryu is a **closed transmission system**, meaning it is taught only by licensed instructors with permission from the headmaster. As such, practice locations are few and carefully managed to ensure fidelity to the tradition.<br><br>
 
-The transmission of the art follows the traditional **menkyo system**, not modern ranking belts. Students are taught directly and progressively, with responsibility placed on each individual to observe, internalize, and inquire. Advancement is based on depth of understanding and demonstration of internal alignment with the school's core principles.
+### Japan
+- **Main Dojo (Sōhonbu):** Located in **Kumamoto Prefecture**, this is the headquarters of the school, where the current headmaster resides and where senior instruction takes place.
+- Additional practice groups may exist in other regions of Japan under direct oversight.<br><br>
 
-<br><br>
+### International Branches
+Recognized branches and study groups operate in a small number of countries under formal license. These include:
+- **North America:** Select dojo in the United States and Canada with instructors licensed to teach the full curriculum or in limited capacity.
+- **Europe:** Practice groups in countries such as the UK, France, and Germany, depending on the current affiliations and travel of senior instructors.
+- **Australia:** Occasional seminars and private study groups led by approved practitioners.
 
-Today, Hyoho Taisha-ryu is maintained through the leadership of the current headmaster, **Yamakita Takenori**, with instruction and support from senior practitioners such as **Uehara Eriko** and **Takahiro Yamamoto**. The school remains active in Japan and abroad, committed to the faithful preservation and clear transmission of its martial legacy.
+Due to the nature of koryu, not all locations are publicly advertised. Prospective students are advised to **contact the main organization or regional representatives** for accurate information and to arrange introductions through proper channels.<br><br>
 
-<br><br>
-
-Those seeking to study Hyoho Taisha-ryu must come with sincerity, patience, and a willingness to change. The school does not offer shortcuts, nor does it promise empowerment through imitation. It offers an exacting path to clarity, formed in an era where hesitation could cost one’s life — and where freedom from fear was the foundation of decisive action.
+All practice outside Japan is subject to oversight by the sōke and may involve periodic visits, seminars, and skill evaluations to maintain alignment with the mainline teachings.
