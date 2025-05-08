@@ -15,7 +15,7 @@ modDate: 2025-05-08
 
 ## Early Life and Background
 
-- **Birth:** January 28, 1981, Hitoyoshi, Kumamoto Prefecture, Japan  
+- **Birth:** Hitoyoshi, Kumamoto Prefecture, Japan  
 - **Family Lineage:** Granddaughter of Yamakita Takenori (13th sōke); daughter of two Taisha-ryū practitioners  
 - **Relocation:** Moved to Kumamoto City in early childhood; returned to Hitoyoshi area at age 20  
 - **Given Name in the Ryu:** Fujiwara Hidesada (藤原秀貞), continuing the classical tradition of adopting a formal lineage name
