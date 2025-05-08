@@ -59,12 +59,6 @@ Her leadership is marked by a balance of fidelity to tradition and subtle modern
 
 ---
 
-## Historical Significance
-
-Uehara’s succession challenges the conventional norms of *koryū bujutsu* leadership, which are overwhelmingly male-dominated. Her role is particularly significant in that it upholds the uninterrupted familial and instructional lineage, rather than introducing an external figurehead. This reinforces the *iemoto* (family headship) model of classical martial transmission while also marking a progressive turn.
-
----
-
 ## Sources
 
 - Koryu.com Interview with Uehara Eriko: Diane Skoss, August 2017  
