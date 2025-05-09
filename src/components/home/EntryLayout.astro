@@ -35,7 +35,7 @@ const { image, imageAlt, title, content, button1, button } = entry.data;
           <h1 set:html={markdownify(title)} class="mb-4" />
           <p set:html={markdownify(content)} class="mb-8" />
           {
-            button && (
+            (
               <Button
                 label="Join"
                 link="https://taisharyu.us/about/"
