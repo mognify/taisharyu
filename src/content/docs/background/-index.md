@@ -1,6 +1,6 @@
 ---
 title: Background
 description: "Background information"
-image: "@assets/docs/characters/cover.jpg"
+image: "@assets/docs/Ryusenkan.jpg"
 imageAlt: A white knight, painted dramatically
 ---
