@@ -1,7 +1,7 @@
 ---
 title: Origin
 description: Where Taisha-ryu came from
-image: "@assets/docs/freepik__japanese-lineage-and-transmission-of-samurai-ryu-a__3776.jpeg"
+image: "@assets/docs/Oda_Sekika_Yamakita_Takenori.jpg"
 imageAlt: "Takahiro Yamamoto Photo"
 pubDate: 2025-05-09
 modDate: 2025-05-09
