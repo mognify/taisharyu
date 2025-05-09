@@ -1,7 +1,7 @@
 ---
 title: Lineage and Transmission
 description: How Taisha-ryu has been legitimately passed down
-image: "@assets/docs/Marume_Kurando_Portrait.jpg"
+image: "@assets/docs/Oda_Sekika_Yamakita_Takenori.jpg"
 imageAlt: "Takahiro Yamamoto Photo"
 pubDate: 2025-05-09
 modDate: 2025-05-09
