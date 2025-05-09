@@ -10,3 +10,5 @@ button:
   label: Join
   link: https://taisharyu.jp/
 ---
+We do not offer instruction. At this time instruction in Taisha-ryu Kenjutsu that is authorised by the soke is conducted only at the DOJO RYU-SEN-KAN in Yatsushiro, Kumamoto Japan or at a seminar organised by one of the Study Groups. For more information about the Taisha-ryu, please write to the following email: godai@taisharyu.us
+
