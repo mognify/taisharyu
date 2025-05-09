@@ -1,7 +1,7 @@
 ---
 title: Origin
 description: Where Taisha-ryu came from
-image: "@assets/profile/takahiro_yamamoto.jpg"
+image: "@assets/docs/Marume_Kurando_Portrait.jpg"
 imageAlt: "Takahiro Yamamoto Photo"
 pubDate: 2025-05-09
 modDate: 2025-05-09
