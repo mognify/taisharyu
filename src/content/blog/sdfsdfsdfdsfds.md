@@ -1,7 +1,7 @@
 ---
 title: asdsadas
 description: asdadasda
-category: [asdasdas]
+categories: [asdasdas]
 author: jane-doe
 ---
 asdadasda
