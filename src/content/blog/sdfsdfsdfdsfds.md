@@ -1,6 +1,6 @@
 ---
 title: asdsadas
 description: asdadasda
-category:[asdasdas]
+category: [asdasdas]
 ---
 asdadasda
