@@ -7,8 +7,6 @@ pubDate: 2025-05-09
 modDate: 2025-05-09
 ---
 
-## Lineage and Transmission
-
 Hyoho Taisha-ryu (兵法タイ捨流) was founded in the late 16th century by **Marume Kurando-no-suke Nagayoshi (丸目蔵人佑長)**, a samurai from Yatsushiro in the Sagara domain of Higo Province (modern-day Kumamoto Prefecture). Marume was a distinguished student of **Kamiizumi Ise-no-Kami Nobutsuna**, the founder of Shinkage-ryu. After years of rigorous training and receiving the menkyo kaiden (license of full transmission) from Kamiizumi, Marume established his own school, integrating his battlefield experiences and philosophical insights.<br><br>
 
 The lineage of Hyoho Taisha-ryu has been preserved through a direct succession of headmasters (sōke), each entrusted with maintaining the school's teachings and traditions. The succession is as follows:<br><br>
