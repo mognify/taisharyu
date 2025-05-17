@@ -4,20 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
-    <!-- Include the Decap CMS script -->
-    <script src="https://unpkg.com/decap-cms@3.1.0/dist/decap-cms.js" defer></script>
-    <style>
-      /* Force a clean, isolated CMS layout */
-      body {
-        margin: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        background: #f0f0f0;
-        font-family: sans-serif;
-      }
-    </style>
+    <!-- Use Decap CMS App (standalone version) -->
+    <script src="https://unpkg.com/decap-cms-app@latest" defer></script>
   </head>
   <body>
     <script>
@@ -27,7 +15,7 @@
             config: "/admin/config.yml",
           });
         } else {
-          console.error("Decap CMS failed to load.");
+          console.error("Decap CMS App failed to load.");
         }
       });
     </script>
