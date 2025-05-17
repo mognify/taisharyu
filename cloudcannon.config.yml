@@ -1,4 +1,5 @@
 _schema: _schema
+source: /
 paths:
   uploads: public/uploads
   static: public
@@ -7,6 +8,7 @@ collections_config:
     path: src/content/about
     name: About
     icon: bolt
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -14,6 +16,7 @@ collections_config:
     path: src/content/authors
     name: Authors
     icon: person
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -21,6 +24,7 @@ collections_config:
     path: src/content/blog
     name: Blog
     icon: event_available
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -28,6 +32,7 @@ collections_config:
     path: src/content/docs
     name: Docs 1
     icon: dock
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -35,6 +40,7 @@ collections_config:
     path: src/content/home
     name: Home
     icon: home
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -42,6 +48,7 @@ collections_config:
     path: src/content/index-cards
     name: Index Cards
     icon: add_card
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -49,6 +56,7 @@ collections_config:
     path: src/content/poetry
     name: Poetry
     icon: pets
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -56,6 +64,7 @@ collections_config:
     path: src/content/portfolio
     name: Portfolio
     icon: portrait
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -63,6 +72,7 @@ collections_config:
     path: src/content/recipes
     name: Recipes
     icon: local_dining
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -70,6 +80,7 @@ collections_config:
     path: src/content/terms
     name: Terms
     icon: lens
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -77,9 +88,12 @@ collections_config:
     path: docs
     name: Docs
     icon: dock
+    disable_url: false
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+_enabled_editors:
+  - visual
 timezone: America/Chicago
 markdown:
   engine: commonmark
