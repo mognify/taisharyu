@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
-    <!-- Use Decap CMS App (standalone version) -->
-    <script src="https://unpkg.com/decap-cms-app@latest" defer></script>
+    <!-- Use Decap CMS (Standard) -->
+    <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js" defer></script>
   </head>
   <body>
     <div id="cms-error" style="color: red; font-weight: bold;"></div>
@@ -17,8 +17,8 @@
           });
         } else {
           const errorDiv = document.getElementById("cms-error");
-          errorDiv.textContent = "Decap CMS App failed to load. Check the console for details.";
-          console.error("Decap CMS App failed to load.");
+          errorDiv.textContent = "Decap CMS failed to load. Check the console for details.";
+          console.error("Decap CMS failed to load.");
         }
       });
     </script>
