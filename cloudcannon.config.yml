@@ -105,7 +105,7 @@ collections_config:
     disable_file_actions: false
     schemas:
       Blog Post:
-        path: https://github.com/mognify/taisharyu/blob/main/cloudcannon.config.yml
+        path: blob/main/cloudcannon.config.yml
         reorder_inputs: true
         hide_extra_inputs: false
         remove_empty_inputs: false
