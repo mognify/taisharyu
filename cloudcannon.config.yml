@@ -1,0 +1,102 @@
+_schema: _schema
+paths:
+  uploads: public/uploads
+  static: public
+collections_config:
+  about:
+    path: src/content/about
+    name: About
+    icon: bolt
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  authors:
+    path: src/content/authors
+    name: Authors
+    icon: person
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  blog:
+    path: src/content/blog
+    name: Blog
+    icon: event_available
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  docs_1:
+    path: src/content/docs
+    name: Docs 1
+    icon: dock
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  home:
+    path: src/content/home
+    name: Home
+    icon: home
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  index_cards:
+    path: src/content/index-cards
+    name: Index Cards
+    icon: add_card
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  poetry:
+    path: src/content/poetry
+    name: Poetry
+    icon: pets
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  portfolio:
+    path: src/content/portfolio
+    name: Portfolio
+    icon: portrait
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  recipes:
+    path: src/content/recipes
+    name: Recipes
+    icon: local_dining
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  terms:
+    path: src/content/terms
+    name: Terms
+    icon: lens
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  docs:
+    path: docs
+    name: Docs
+    icon: dock
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+timezone: America/Chicago
+markdown:
+  engine: commonmark
+  options:
+    xhtml: false
+    breaks: false
+    linkify: false
+    typographer: false
+    spaced_lists: false
+    sentence_per_line: false
+    gfm: true
+    code_block_fences: '```'
+    escape_snippets_in_code_blocks: false
+    treat_indentation_as_code: false
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    attributes: false
