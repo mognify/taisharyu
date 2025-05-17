@@ -4,22 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
-    <!-- Use Decap CMS (Standard) -->
-    <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js" defer></script>
+    <!-- Include the Decap CMS App -->
+    <script src="https://unpkg.com/decap-cms-app@latest/dist/decap-cms-app.js"></script>
   </head>
   <body>
-    <div id="cms-error" style="color: red; font-weight: bold;"></div>
     <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        if (window.CMS) {
-          window.CMS.init({
-            config: "/admin/config.yml",
-          });
-        } else {
-          const errorDiv = document.getElementById("cms-error");
-          errorDiv.textContent = "Decap CMS failed to load. Check the console for details.";
-          console.error("Decap CMS failed to load.");
-        }
+      window.CMS.init({
+        config: "/admin/config.yml",
       });
     </script>
   </body>
