@@ -17,24 +17,47 @@ export default defineConfig({
   prefetch: {
     prefetchAll: true
   },
-  integrations: [react(), sitemap(), tailwind({
-    config: {
-      applyBaseStyles: false
-    }
-  }), AutoImport({
-    imports: ["@components/common/Button.astro", "@shortcodes/Accordion", "@shortcodes/Notice", "@shortcodes/Youtube", "@shortcodes/Tabs", "@shortcodes/Tab"]
-  }), mdx()],
+  integrations: [
+    react(),
+    sitemap(),
+    tailwind({
+      config: {
+        applyBaseStyles: false
+      }
+    }),
+    AutoImport({
+      imports: [
+        "@components/common/Button.astro",
+        "@shortcodes/Accordion",
+        "@shortcodes/Notice",
+        "@shortcodes/Youtube",
+        "@shortcodes/Tabs",
+        "@shortcodes/Tab"
+      ]
+    }),
+    mdx()
+  ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, {
-      test: "Table of contents"
-    }], remarkMath],
+    remarkPlugins: [
+      remarkToc,
+      [remarkCollapse, { test: "Table of contents" }],
+      remarkMath
+    ],
     rehypePlugins: [[rehypeKatex, {}]],
     shikiConfig: {
-      themes: { // https://shiki.style/themes
+      themes: {
         light: "light-plus",
         dark: "dark-plus",
       } 
     },
     extendDefaultPlugins: true
+  },
+  vite: {
+    optimizeDeps: {
+      include: ["react", "react-dom"],
+    },
+    ssr: {
+      external: ["react", "react-dom"],
+    }
   },
 });
