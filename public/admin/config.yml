@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: mognify/taisharyu
+  name: git-gateway
   branch: main
-  base_url: https://taisharyu.us
-  auth_scope: repo
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
