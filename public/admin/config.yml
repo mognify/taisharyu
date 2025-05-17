@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mognify/taisharyu
   branch: main
+  auth_scope: repo
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
@@ -13,4 +15,5 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
