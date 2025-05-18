@@ -2,7 +2,7 @@
 title: ANYTITLE
 description: "ANY DESCRIPTION"
 categories: [only_one_category]
-author: jane-doe
+author: godai
 tags: [any tags, any additional, any additional]
 ---
 any content
