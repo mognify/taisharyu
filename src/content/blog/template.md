@@ -1,7 +1,7 @@
 ---
 title: ANYTITLE
 description: "ANY DESCRIPTION"
-categories: [only_one_category]
+categories: [OneCategoryOnly]
 author: godai
 tags: [any tags, any additional, any additional]
 ---
